@@ -33,7 +33,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hstrelowdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hstrelowdev&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hstrelowdev&label=Visitas&color=7c3aed&style=flat" alt="visitas" />
-</p>
