@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7c3aed&height=180&section=header&text=Hans%20Strelow&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&lines=Construyo+cosas+con+TypeScript;Modding+en+C%23+por+diversi%C3%B3n;Siempre+aprendiendo+algo+nuevo" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&lines=Construyo+cosas+con+js;Modding+en+C%23+por+diversi%C3%B3n;Siempre+aprendiendo+algo+nuevo" alt="typing" />
 </a>
 
 </div>
@@ -12,7 +12,6 @@
 
 - 🇨🇱 Desarrollador desde Chile, enfocado en desarrollo web full stack.
 - 🛠️ Actualmente construyendo **Devteca**, una biblioteca de recursos para developers.
-- 🎮 Fuera del código: modding de juegos (Valheim) y videojuegos en Linux.
 - 📫 Hablemos: [LinkedIn](https://www.linkedin.com/in/hans-strelow)
 
 ## 🧰 Tecnologías
