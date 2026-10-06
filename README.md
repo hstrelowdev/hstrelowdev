@@ -17,7 +17,7 @@
 ## 🧰 Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,nodejs,git,github,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,react,nextjs,nodejs,git,github,linux" alt="skills" />
 </p>
 
 ## 🚀 Proyectos destacados
