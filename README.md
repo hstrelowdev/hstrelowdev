@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7c3aed&height=180&section=header&text=Hans%20Strelow&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7c3aed&height=180&section=header&text=Hans%20Strelow&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&lines=Construyo+cosas+con+js;Modding+en+C%23+por+diversi%C3%B3n;Siempre+aprendiendo+algo+nuevo" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&lines=I+build+things+with+TypeScript;Modding+in+C%23+for+fun;Always+learning+something+new" alt="typing" />
 </a>
 
 </div>
 
-## 👋 Sobre mí
+## 👋 About me
 
-- 🇨🇱 Desarrollador desde Chile, enfocado en desarrollo web full stack.
-- 🛠️ Actualmente construyendo **Devteca**, una biblioteca de recursos para developers.
-- 📫 Hablemos: [LinkedIn](https://www.linkedin.com/in/hans-strelow)
+- 🇨🇱 Developer based in Chile, focused on full stack web development.
+- 🛠️ Currently building **Devteca**, a resource library for developers.
+- 📫 Let's talk: [LinkedIn](https://www.linkedin.com/in/hans-strelow)
 
-## 🧰 Tecnologías
+## 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,react,nextjs,nodejs,git,aws,github,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,nodejs,git,github,linux" alt="skills" />
 </p>
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto                                                        | Descripción                                                                                                 | Stack      |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
-| [**Devteca**](https://github.com/hstrelowdev/Devteca)           | Biblioteca web con recursos, herramientas y utilidades para developers.                                     | TypeScript |
-| [**deathTauntVH**](https://github.com/hstrelowdev/deathTauntVH) | Mod de Valheim que anuncia en pantalla quién murió y reproduce un sonido de burla según el mob que lo mató. | C#         |
+| Project                                                         | Description                                                                                                      | Stack      |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
+| [**Devteca**](https://github.com/hstrelowdev/Devteca)           | Web library with resources, tools and utilities for developers.                                                  | TypeScript |
+| [**deathTauntVH**](https://github.com/hstrelowdev/deathTauntVH) | Valheim mod that announces player deaths on screen and plays a custom taunt sound depending on what killed them. | C#         |
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hstrelowdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
