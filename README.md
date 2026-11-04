@@ -17,15 +17,16 @@
 ## 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,react,nextjs,nodejs,git,github,linux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,laravel,react,nextjs,nodejs,sqlite,git,github,linux" alt="skills" />
 </p>
 
 ## 🚀 Featured projects
 
-| Project                                                         | Description                                                                                                      | Stack      |
-| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------- |
-| [**Devteca**](https://github.com/hstrelowdev/Devteca)           | Web library with resources, tools and utilities for developers.                                                  | TypeScript |
-| [**deathTauntVH**](https://github.com/hstrelowdev/deathTauntVH) | Valheim mod that announces player deaths on screen and plays a custom taunt sound depending on what killed them. | C#         |
+| Project                                                         | Description                                                                                                      | Stack          |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------- |
+| [**Devteca**](https://github.com/hstrelowdev/Devteca)           | Web library with resources, tools and utilities for developers.                                                  | TypeScript     |
+| [**Bitácora**](https://github.com/hstrelowdev/bitacora)         | Internal work request tracker with statuses, filters and an automatic history of every field change.             | PHP, Laravel   |
+| [**deathTauntVH**](https://github.com/hstrelowdev/deathTauntVH) | Valheim mod that announces player deaths on screen and plays a custom taunt sound depending on what killed them. | C#             |
 
 ## 📊 Stats
 
