@@ -23,8 +23,8 @@
 
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
-| **Devteca** | Web library with resources, tools and utilities for developers. | TypeScript, Next.js, PostgreSQL | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/Devteca) · [Live demo](https://devteca-ten.vercel.app/) |
-| **Portfolio** | Personal site with selected projects, about section and a working contact form. | React, TypeScript, Vite, Tailwind CSS | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/portfolioV1) · [Live demo](https://hstrelowdev.netlify.app/) |
+| [**Devteca**](https://github.com/hstrelowdev/Devteca) | Web library with resources, tools and utilities for developers. | TypeScript, Next.js, PostgreSQL | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/Devteca) · [Live demo](https://devteca-ten.vercel.app/) |
+| [**Portfolio**](https://github.com/hstrelowdev/portfolioV1) | Personal site with selected projects, about section and a working contact form. | React, TypeScript, Vite, Tailwind CSS | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/portfolioV1) · [Live demo](https://hstrelowdev.netlify.app/) |
 | [**Bitácora**](https://github.com/hstrelowdev/bitacora) | Internal work request tracker with statuses, filters and an automatic history of every field change. | PHP, Laravel | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/bitacora) |
 | [**deathTauntVH**](https://github.com/hstrelowdev/deathTauntVH) | Valheim mod that announces player deaths on screen and plays a custom taunt sound depending on what killed them. | C# | [![GitHub repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hstrelowdev/deathTauntVH) |
 
